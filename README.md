@@ -1,5 +1,3 @@
-# Role Play Online
-PlayFab Title ID: A823B
-Photon AppID: 08c826bd-ea5e-45e6-b506-4b8a480ff1e8
-
-Formerly gb0122
+# gb0122
+PlayFab ID ID: 29B90
+Photon ID: 15730a5d-2d22-4701-acf9-bf15205f2c73
